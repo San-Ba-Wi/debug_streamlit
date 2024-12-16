@@ -5,7 +5,7 @@ import streamlit as st
 import altair as alt
 
 # Streamlit UI 설정
-st.title("최적화된 주사위 시뮬레이션")
+st.title("주사위 시뮬레이션")
 st.write("슬라이더를 사용해 시행 횟수를 조정하세요. 기댓값과 표준편차가 수렴하는 과정을 관찰할 수 있습니다.")
 
 # 슬라이더를 통해 시행 횟수 선택
